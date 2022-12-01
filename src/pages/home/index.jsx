@@ -1,4 +1,5 @@
 import Block1 from '../../components/block-1'
+import Block2 from '../../components/block-2'
 
 const Home = () => {
   return (
@@ -8,6 +9,7 @@ const Home = () => {
       <Block1 />
       <Block1 />
       <Block1 />
+      <Block2 />
     </main>
   )
 }
